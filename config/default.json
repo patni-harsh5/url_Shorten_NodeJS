@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:{PASSWORD}@cluster0-h5u5j.mongodb.net/urlShortner?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
